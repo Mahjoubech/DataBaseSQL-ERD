@@ -205,12 +205,6 @@ Here’s a visual representation of the database relationships:
 
 ---
 
-## ✨ Author
-
-- **Name**: Mahjoub Echcherkaoui
-- **Contact**: [Your Email or Social Handle]
-
-Feel free to contribute or suggest improvements to this project!
 
 📋 Overview
 This project is a database design for managing a car rental system. It includes three main tables:
